@@ -1,5 +1,5 @@
 # jQuery-Word-rotator
-Simple word rotation Effect v1.0.0 Made by Yuri Blecher 2016
+Simple word rotation Effect v1.0.0<br>
 code pen Demo: http://codepen.io/yurinkab/pen/GqNVLK
 
 # Install
