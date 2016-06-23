@@ -2,7 +2,7 @@
 Simple Word rotation Effect v1.0.0 Made by Yuri Blecher 2016
 
 # Install
-1. Install latest jQuery and attach it to your `<head>`:<br>
+1. download latest jQuery lib and attach it to your `<head>`:<br>
 `<script   src="https://code.jquery.com/jquery-3.0.0.min.js"   integrity="sha256-JmvOoLtYsmqlsWxa7mDSLMwa6dZ9rrIdtrrVYRnDRH0="   crossorigin="anonymous"></script>`
 
 2. Download rot-ef.js to your directory and conect it to your HTML right before `</body>`.
