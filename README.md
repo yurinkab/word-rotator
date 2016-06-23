@@ -6,12 +6,13 @@ code pen Demo: http://codepen.io/yurinkab/pen/GqNVLK
 1. download latest jQuery lib and attach it to your `<head>`:<br>
 `<script   src="https://code.jquery.com/jquery-3.0.0.min.js"   integrity="sha256-JmvOoLtYsmqlsWxa7mDSLMwa6dZ9rrIdtrrVYRnDRH0="   crossorigin="anonymous"></script>`
 
-2. Download rot-ef.js to your directory and conect it to your HTML right before `</body>`.
-
-3. add this lines in your html:
+2. add this lines in your html:
 ```js
 <div id="main">You can Call me <span class="keyword">inser your input here</span></div>
 ```
+3. Download rot-ef.js to your directory and link it to your HTML right before `</body>`:<br>
+`<script src="js/rot-ef.js"></script>`
+
 #Options
 in the rot-ef.js you can find: 
 1. "arr" array which contains all the words that will be projected.
