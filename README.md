@@ -1,10 +1,10 @@
 # Word-rotator
 Simple Word rotation Effect v1.0.0 Made by Yuri Blecher 2016
 
-# Instalation
+# Install
 Install latest jQuery lib:
 
-Download rot-ef.js to your library and conect it to your HTML right before </body>.
+Download rot-ef.js to your library and conect it to your HTML right before `</body>`.
 
 just add this lines in your html:
 ```js
