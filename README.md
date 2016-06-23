@@ -6,4 +6,5 @@ just add this lines in your html:
 
 
 # Example
-http://i.imgur.com/vdMmJcV.gif?1
+
+![Example of the Canvas Sparkles Plugin in use](http://i.imgur.com/vdMmJcV.gif?1 "Text Rotation by Yuri Blecher")
